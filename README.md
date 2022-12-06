@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @tanish-guleria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Tanish Guleria <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
-<!---
-tanish-guleria/tanish-guleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working as Software Engineer 2 at Sophos 
+- 🔭 Microsoft Certified: DevOps Engineer Expert (Az-400 )
+- 🌱 I’m currently learning Aws,Azure, DevOps, Docker and kubernetes
+- 💬 Ask me about Azure DevOps,Kubernetes,eks,loadbalancing,Ingress,Application Gateway,CDN,Aks,.NET and Docker
+- ⚡ Fun fact: There is more to life....other than your computer's. 
+
+
+## Connect with me 🔗:
+[![Linkedin Badge](https://img.shields.io/badge/-Tanish__Guleria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-singh-guleria/)](https://www.linkedin.com/in/tanish-singh-guleria-45192014a) 
+
+<p align="center"> <img src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" alt="Kermit"/>
