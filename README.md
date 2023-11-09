@@ -11,3 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tanish__Guleria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-singh-guleria/)](https://www.linkedin.com/in/tanish-singh-guleria-45192014a) 
 
 <p align="center"> <img src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" alt="Kermit"/>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanish-guleria&show_icons=true&theme=gotham" alt="TanishGuleria"/>
