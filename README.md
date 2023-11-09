@@ -2,8 +2,7 @@
 
 
 - Software Engineer 3 at Sophos 
-- 🔭 Microsoft Certified: DevOps Engineer Expert (Az-400 )
-- 💬 Ask me about Aws,Azure, DevOps, Docker and kubernetes
+- 💬 Ask me about Aws, Azure, DevOps, Docker, kubernetes, Groovy and Java
 - ⚡ Fun fact: There is more to life....other than your computer's. 
 
 
